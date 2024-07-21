@@ -1,4 +1,5 @@
-interface Task {
+import inquirer from "inquirer
+    interface Task {
     name: string;
     completed: boolean;
 }
